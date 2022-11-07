@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>SUCHEETH - Curriculum Vitae</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+  <!-- ======= Mobile nav toggle button ======= -->
+  <i class="bi bi-list mobile-nav-toggle d-xl-none"></i>
+
+  <!-- ======= Header ======= -->
+  <header id="header">
+    <div class="d-flex flex-column">
+
+      <div class="profile">
+        <img src="assets/img/profile-img.jpg" alt="" class="img-fluid rounded-circle">
+        <h1 class="text-light"><a href="index.html">SUCHEETH V</a></h1>
+        <div class="social-links mt-3 text-center">
+          <a href="https://github.com/SUCHEETH" class="github"><i class="bx bxl-github"></i></a>
+          <a href="https://www.linkedin.com/in/sucheeth-v-23872b186/" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+          <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
+          <a href="https://www.facebook.com/VS.Suchi2" class="facebook"><i class="bx bxl-facebook"></i></a>
+          <a href="https://www.instagram.com/yes_you_cheet_we/" class="instagram"><i class="bx bxl-instagram"></i></a>
+        </div>
+      </div>
+
+      <nav id="navbar" class="nav-menu navbar">
+        <ul>
+          <li><a href="#hero" class="nav-link scrollto active"><i class="bx bx-home"></i> <span>Home</span></a></li>
+          <li><a href="#about" class="nav-link scrollto"><i class="bx bx-user"></i> <span>About</span></a></li>
+          <li><a href="#resume" class="nav-link scrollto"><i class="bx bx-file-blank"></i> <span>Resume</span></a></li>
+          <li><a href="#portfolio" class="nav-link scrollto"><i class="bx bx-book-content"></i> <span>Certification</span></a></li>
+          <li><a href="#contact" class="nav-link scrollto"><i class="bx bx-envelope"></i> <span>Contact</span></a></li>
+        </ul>
+      </nav><!-- .nav-menu -->
+    </div>
+  </header><!-- End Header -->
+
+  <!-- ======= Hero Section ======= -->
+  <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
+    <div class="hero-container" data-aos="fade-in">
+      <h1>SUCHEETH V</h1>
+      <p>I'm <span class="typed" data-typed-items="DevOps Engineer, Software Developer, Certified Cloud Engineer, Software Engineer"></span></p>
+    </div>
+  </section><!-- End Hero -->
+
+  <main id="main">
+
+    <!-- ======= About Section ======= -->
+    <section id="about" class="about">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>About</h2>
+          <p>Born and Raised at Bangalore. Schooling at Bishop Cotton Boys' School. Electronics and Communication Engineer as well as Software Engineer and Certified Cloud Engineer. Presently working as Software Engineer at Cognizant Technology Solutions, Bangalore (presently Work From Home).</p>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-4" data-aos="fade-right">
+            <img src="assets/img/profile-img.jpg" class="img-fluid" alt="">
+          </div>
+          <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
+            <h3>Experience Summary</h3>
+            <p class="fst-italic">
+              Overall 3 years 11 months experience at Cognizant Technology Solutions as Software Engineer/DevOps Engineer. Initially began my career with .NET and SQL skillset later after 2 years switched my skillset to DevOps with AWS technology. I also have a certification with AWS cloud (AWS Certified Cloud Practitioner).
+            </p>
+            <div class="row">
+              <div class="col-lg-12">
+                <ul>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Company:</strong> <span>Cognizant Technologies Solution</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Current Role:</strong> <span>Associate / Software Engineer</span></li>
+	              <li><i class="bi bi-chevron-right"></i> <strong>Date Of Joining:</strong> <span>12/08/2018</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Bangalore, India</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span><a href="https://www.sucheeth.github.io/CurriculumVitae">Visit My CV Website!</a></span></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End About Section -->
+
+    <!-- ======= Skills Section ======= -->
+    <section id="skills" class="skills section-bg">
+      <div class="container">
+
+        <div class="section-title" data-aos="fade-right">
+          <h2>Skills</h2>
+			<style>
+			table {
+			  font-family: arial, sans-serif;
+			  border-collapse: collapse;
+			  width: 100%;
+			}
+
+			td, th {
+			  border: 1px solid #dddddd;
+			  text-align: left;
+			  padding: 8px;
+			}
+
+			tr:nth-child(even) {
+			  background-color: #dddddd;
+			}
+			</style>
+			<table>
+			  <tr>
+				<th>Hardware / Platforms</th>
+				<td>Linux Ubuntu, Windows 98/XP/2000,Windows 7/8/10</td>
+			  </tr>
+			  <tr>
+				<th>Programming Skills</th>
+				<td>Bash Shell-scripting, SQL, YAML</td>
+			  </tr>			  
+			  <tr>
+				<th>Databases</th>
+				<td>MS SQL Server, Oracle SQL, MySQL</td>
+			  </tr>			  
+			  <tr>
+				<th>DevOps Tools and Services</th>
+				<td>Systemd Service, SSH Protocol, Apache2 Server, Apache-Tomcat Server, Maven, Vagrant, Ansible, Terraform, Docker</td>
+			  </tr>			  
+			  <tr>
+				<th>Version Control Tools</th>
+				<td>SVN, Git</td>
+			  </tr>			  
+			  <tr>
+				<th>Cloud Technologies</th>
+				<td>Amazon Web Service(AWS)</td>
+			  </tr>			  
+			  <tr>
+				<th>Certification</th>
+				<td>AWS Certified Cloud Practitioner</td>
+			  </tr>			  
+			  <tr>
+				<th>Others</th>
+				<td>.Net, Manual Testing</td>
+			  </tr>			  
+			</table>
+
+        </div>
+      </div>
+    </section><!-- End Skills Section -->
+
+    <!-- ======= Resume Section ======= -->
+    <section id="resume" class="resume">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>Resume</h2>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-12" data-aos="fade-up">
+            <h3 class="resume-title">Education</h3>
+            <div class="resume-item">
+              <h4>Bachelor of Engineering in Electronics &amp; Communication Engineering</h4>
+              <h5>2014 - 2018</h5>
+              <p><em>JSS Academy Of Technical Education, Bangalore, India</em></p>
+              <p>Graduated from one of the prestigious AAA+ institute affiliated to Visvesveraya Technological University.</p>
+            </div>
+            <div class="resume-item">
+              <h4>Pre University in Science - Physics, Chemistry, Mathematics, Biology</h4>
+              <h5>2012 - 2014</h5>
+              <p><em>KLE’s S Nijalingappa PU College, Bangalore, India</em></p>
+              <p>Completed my Under Graduation program in PCMB at KLE's S Nijalingappa PU College affiliated to NCERT Board.</p>
+            </div>
+            <div class="resume-item">
+              <h4>High School</h4>
+              <h5>2000 - 2012</h5>
+              <p><em>Bishop Cotton Boys' School, Bangalore, India</em></p>
+              <p>Completed my schooling in one of the best day scholar schools in India affiliated to ICSE Board.</p>
+            </div>
+          </div>
+          <div class="col-lg-12" data-aos="fade-up" data-aos-delay="100">
+            <h3 class="resume-title">Professional Experience</h3>
+            <div class="resume-item">
+              <h4>CXO Dashboard, Cognizant, US </h4>
+              <h5>Nov 2020 - Present</h5>
+              <ul>
+                <li><strong>Team Size:</strong> <span>7</span></li>
+                <li><strong>Client:</strong> <span>Cognizant Technology Solutions, Centrica, Mattel, ConEd, Cabot, Nationwide, Orix, Brinker, Toyota.etc.</span></li>
+                <li><strong>Role:</strong> <span>DevOps Engineer.</span></li>
+                <li><strong>Technologies:</strong> <span>GitHub, Vagrant, Maven, Apache2 Tomcat Server, Ansible, Terraform, Amazon Web Services, Docker.</span></li>
+				<li><strong>Brief Description:</strong> <span>CXO Dashboard is a Java based software developed used to display various metrics and widgets based on various criteria provided by various client accounts at Cognizant which requires automation to distribute to multiple client accounts within Cognizant.</span></li>
+                <li><strong>Responsibilities:</strong></li>
+				<li>Working on DevOps activities to automate process and CI/CD for delivering our builds quickly to production environment using various DevOps tools like Vagrant, Ansible, Maven, Apache Tomcat Servers, Docker.etc on various Linux machines.</li>
+				<li>Dealt with <strong>version control system (Git)</strong> and used source code management tool <strong>GitHub</strong>. Responsible for creating repositories and branches in Git, merging code lines in Git and resolving all the conflicts during code merges.</li>
+				<li>Worked extensively on <strong>Maven</strong> for building of deployable artifacts (jar, war & ear) from source code.</li>
+				<li>Having knowledge and experience in <strong>Linux Commands and Shell-scripts.</strong></li>
+				<li>Working experience in Continuous Delivery, Infrastructure Automation using <strong>Ansible</strong> and have written <strong>Ansible playbooks and Jinja2 templates.</strong></li>
+				<li>Experience in containerization technology <strong>Docker</strong> and was responsible in writing <strong>Dockerfile.</strong></li>
+				<li>Have good knowledge and experience in Infrastructure as Code tools like <strong>Vagrant and Terraform</strong> in facilitating infrastructure as VMs and also on cloud.</li>
+				<li>Having very good knowledge and experience in various <strong>AWS (Amazon Web Services)</strong> services like Networking(VPC, subnets, security groups), Computing(EC2, Load Balancers, Auto scaling group), Storage(EBS, EFS, S3), Database(RDS), Security(IAM roles and policies), Monitoring(Cloud Trial, Cloud Watch), Messaging(SQS, SNS, SES).</li>
+				<li>Experience in installing, configuring, managing, tracking complex build problems, release issues and trouble shooting skills.</li>
+				<li>Provided deployment support for different environment.</li>
+				<li>Planning and implementing the end-to-end release process and maintaining the project related documents.</li>
+				<li>Delegate tasks to the 5 members of the our DevOps team and provide counsel on all aspects of the project. </li>
+              </ul>
+            </div>
+            <div class="resume-item">
+              <h4>Vendor Approval Process, Centrica, UK</h4>
+              <h5>Apr 2019 - Nov 2020</h5>
+              <ul>
+			    <li><strong>Team Size:</strong> <span>3</span></li>
+                <li><strong>Client:</strong> <span>British Gas – Centrica Plc</span></li>
+                <li><strong>Role:</strong> <span>Junior Software Developer.</span></li>
+                <li><strong>Technologies:</strong> <span>C# .NET, ASP.NET, HTML5, CSS, SQL.</span></li>
+				<li><strong>Brief Description:</strong> <span>“Vendor Approval Process” is a web application used to manage the registration process of vendors. The application shows different views with option to edit and update the vendor for authorized users.</span></li>
+                <li><strong>Responsibilities:</strong></li>
+				<li>Was involved in development UI pages using the concepts of ASP.NET, HTML5 and CSS3 and validation using C# .Net concepts.</li>
+				<li>Was involved in integrating the entire application from backend using SQL database server by creating multiple tables, SPs and UDTs.</li>
+				<li>Was involved in development and unit/integration testing.</li>
+              </ul>
+            </div>
+            <div class="resume-item">
+              <h4>Online Bus Ticket Reservation, Cognizant, US</h4>
+              <h5>Dec 2018 - Mar 2019</h5>
+              <ul>
+			    <li><strong>Team Size:</strong> <span>4</span></li>
+                <li><strong>Client:</strong> <span>Cognizant Academy</span></li>
+                <li><strong>Role:</strong> <span>Junior Software Developer.</span></li>
+                <li><strong>Technologies:</strong> <span>ASP.NET, HTML5, CSS, SQL, GitHub.</span></li>
+				<li><strong>Brief Description:</strong> <span>This is My First Real-time Project(MFRP) which is standalone application that enables the reservation of online bus tickets based on customer’s preferred pickup and dropping locations, in addition to this the customer is also allowed to filter the search based on price, seat preference. This was done as part of Cognizant training and assessment program.</span></li>
+                <li><strong>Responsibilities:</strong></li>
+				<li>Was involved in development UI pages using the concepts of ASP.NET, HTML5 and CSS3.</li>
+				<li>Was involved in performing testing to our application end to end to ensure defect free code.</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End Resume Section -->
+    <!-- ======= Certification Section ======= -->
+    <section id="portfolio" class="portfolio section-bg">
+      <div class="container">
+
+        <div class="section-title" data-aos="fade-right">
+          <h2>Certification</h2>
+        </div>
+
+        <div class="row portfolio-container" data-aos="fade-right" data-aos-delay="100">
+
+          <div class="col-lg-6 col-md-12 portfolio-item filter-app">
+		    <div class="portfolio-wrap">
+              <img src="assets/img/certification/aws-certification.jpg" class="img-fluid" alt="">
+			  <!--<embed src="assets/img/certification/aws-certification.pdf" width="600" height="355"></embed>-->
+			  <div class="portfolio-links">
+				<a href="assets/img/certification/aws-certification.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Fullscreen"><i class="bx bx-plus"></i></a>
+				<a href="https://aw.certmetrics.com/amazon/public/verification.aspx" title="Validate Certificate Link"><i class="bx bx-link"></i></a>
+			  </div>
+			</div>
+		  </div>
+          <!--<div class="col-lg-6 col-md-12 portfolio-item filter-app">
+		    <div class="portfolio-wrap">
+              <img src="assets/img/certification/aws-certification.jpg" class="img-fluid" alt="">
+			  <embed src="assets/img/certification/aws-certification.pdf" width="600" height="355"></embed>
+			  <div class="portfolio-links">
+				<a href="assets/img/certification/aws-certification.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Contributors"><i class="bx bx-plus"></i></a>
+				<a href="https://ieeexplore.ieee.org/document/9001316" title="Visit IEEE Paper"><i class="bx bx-link"></i></a>
+			  </div>
+			</div>
+		  </div>-->
+        </div>
+
+      </div>
+    </section><!-- End Certification Section -->
+    <!-- ======= Roles and Resposibilities Section ======= -->
+    <section id="skills" class="skills section-bg">
+      <div class="container">
+
+        <div class="section-title" data-aos="fade-up">
+          <h2>Roles and Resposibilities</h2>
+          <ul style="list-style-type:square;">
+			<li>Responsible to perform analysis for various enhancements, perform impact analysis to find out the systems/programs that could be potentially affected by proposed change(s), coding, and testing and implementation activities.</li><br>
+			<li>Responsible for requirement gathering, design and development and testing of the issues.</li><br>
+			<li>Anticipate issues and risks in the project and solve or mitigate them in advance.</li><br>
+			<li>Responsible for development to deployment of project.</li><br>
+			<li>Handled project during critical situations and helped team members in achieving the goals.</li><br>
+			<li>Imparting domain and technical knowledge to the new entrants and also fellow team-members.</li><br>
+			<li>Was part of learning committee and conducted various sessions related to trending technologies to keep the team updated.</li><br>
+			<li>Handled a team of 5 members as technical lead in guiding them and taking responsibilities in handling and deployment of the application.</li><br>
+			<li>Also was organizer of FunFriday and Celebration Team.</li>
+		</ul>
+        </div>
+      </div>
+    </section><!-- End Roles and Resposibilities Section -->
+    <!-- ======= Achievements Section ======= -->
+    <section id="skills" class="skills section-bg">
+      <div class="container">
+
+        <div class="section-title" data-aos="fade-up">
+          <h2>Achievements</h2>
+          <ul style="list-style-type:square;">
+			<li>Published IEEE Xplore Paper in August 2018.</li><br>
+			<li>Participated in Microsoft Hackathon and bagged runner up award in June 2020.</li><br>
+			<li>Won Gem of Q2 Award (Q2 2020), Coral Awards for Q2 (Q2 2021), Coral Awards for Q4 (Q4 2021).</li><br>
+			<li>Participated in Agile Practitioner Certification Hackathon Program’ 2021 conducted by Pluralsight in December 2021 and won reward points.</li><br>
+			<li>Up-skilled and Certified myself as AWS Certified Cloud Practitioner in May 2022.</li>
+		  </ul>
+        </div>
+      </div>
+    </section><!-- End Achievements Section -->
+
+    <!-- ======= Contact Section ======= -->
+    <section id="contact" class="contact">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>Contact</h2>
+        </div>
+
+        <div class="row" data-aos="fade-in">
+
+          <div class="col-lg-12 d-flex align-items-stretch">
+            <div class="info">
+              <div class="address">
+                <i class="bi bi-geo-alt"></i>
+                <h4>Location:</h4>
+                <p>#1295/8, PADMAVATHI NILAYA, 6th Cross, 9th Main, Sriramapuram, Bangalore - 560021.</p>
+              </div>
+
+              <div class="email">
+                <i class="bi bi-envelope"></i>
+                <h4>Email:</h4>
+                <p>sucheeth.job@gmail.com</p>
+              </div>
+
+              <div class="phone">
+                <i class="bi bi-phone"></i>
+                <h4>Mobile:</h4>
+                <p>+91 8197222102</p>
+              </div>
+
+              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.687352911344!2d77.56272781430451!3d12.991837817950287!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae175dd663a5c3%3A0xa2bb667760616cfa!2sPADMAVATHI%20NILAYA!5e0!3m2!1sen!2sin!4v1667765587368!5m2!1sen!2sin" frameborder="0" style="border:0; width: 100%; height: 290px;" allowfullscreen></iframe>
+			  <!--<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.687352911344!2d77.56272781430451!3d12.991837817950287!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae175dd663a5c3%3A0xa2bb667760616cfa!2sPADMAVATHI%20NILAYA!5e0!3m2!1sen!2sin!4v1667765587368!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>-->
+            </div>
+
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Contact Section -->
+
+  </main><!-- End #main -->
+
+  <!-- ======= Footer ======= -->
+  <footer id="footer">
+    <div class="container">
+      <div class="credits">
+        Designed by <a>SUCHEETH V</a>
+      </div>
+    </div>
+  </footer><!-- End  Footer -->
+
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/typed.js/typed.min.js"></script>
+  <script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
