@@ -42,6 +42,7 @@
         <img src="assets/img/profile-img.jpg" alt="" class="img-fluid rounded-circle">
         <h1 class="text-light"><a href="index.html">SUCHEETH V</a></h1>
         <div class="social-links mt-3 text-center">
+          <a href="https://github.com/SUCHEETH" class="github"><i class="bx bxl-github"></i></a>
           <a href="https://www.linkedin.com/in/sucheeth-v-23872b186/" class="linkedin"><i class="bx bxl-linkedin"></i></a>
           <a href="https://twitter.com/SUCHEETHV" class="twitter"><i class="bx bxl-twitter"></i></a>
           <a href="https://www.facebook.com/VS.Suchi2" class="facebook"><i class="bx bxl-facebook"></i></a>
